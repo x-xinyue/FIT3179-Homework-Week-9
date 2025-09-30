@@ -1,0 +1,16 @@
+#symbol_map {
+  margin: 0 auto;
+  display: block;
+  max-width: 100%;
+}
+
+
+body {
+	text-align: center; 
+	
+}
+
+h1 {
+	font-size: 2.5em; 
+	margin-bottom: 20px; 
+}

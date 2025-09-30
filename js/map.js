@@ -1,5 +1,5 @@
-var vg_1 = "js/symbol_map.json";
+var vg_1 = "js/choropleth_map.json";
 
-vegaEmbed('#symbol_map', vg_1).then(function(result) {
+vegaEmbed('#choropleth_map', vg_1).then(function(result) {
   // success
 }).catch(console.error);
